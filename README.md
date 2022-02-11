@@ -1,5 +1,13 @@
 # [lichess.org](https://lichess.org)
 
+tesekkürler ben çevrim içi olmayan bir öğrenme uygulaması istiyorum
+
+
+
+
+
+
+
 [![Build server](https://github.com/lichess-org/lila/workflows/Build%20server/badge.svg)](https://github.com/lichess-org/lila/actions?query=workflow%3A%22Build+server%22)
 [![Build assets](https://github.com/lichess-org/lila/workflows/Build%20assets/badge.svg)](https://github.com/lichess-org/lila/actions?query=workflow%3A%22Build+assets%22)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/lichess/localized.svg)](https://crowdin.com/project/lichess)
